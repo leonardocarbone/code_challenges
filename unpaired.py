@@ -1,4 +1,4 @@
-# Find unpaired value on a odd array consisting of N integers
+# Find unpaired value that occurs in odd number of elements.
 
 # Solution 1
 lst = [9, 3, 9, 3, 9, 7, 9]
